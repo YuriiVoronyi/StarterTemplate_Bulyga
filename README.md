@@ -1,5 +1,8 @@
 # StarterTemplate_Bulyga
 ВАЖНО: перед запуском этого сборщика у вас должны быть установлены на компьютере:
+a. git
+   сайт для установки:
+   https://git-scm.com/downloads/win   
 а. node.js
    сайт для установки node.js
    https://nodejs.org/en/download/prebuilt-installer
