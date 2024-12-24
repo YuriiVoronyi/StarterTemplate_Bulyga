@@ -3,10 +3,10 @@
 a. git
    сайт для установки:
    https://git-scm.com/downloads/win   
-а. node.js
+b. node.js
    сайт для установки node.js
    https://nodejs.org/en/download/prebuilt-installer
-b. gulp
+c. gulp
    инструкция - команда и описание по установке gulp (команда: npm install --global gulp-cli) на этом сайте:
    https://gulpjs.com/docs/en/getting-started/quick-start
 
